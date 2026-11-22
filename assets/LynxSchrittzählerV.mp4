@@ -1,5 +1,0 @@
-<video id="demo" controls playsinline preload="metadata"
-       width="280" style="max-width: 100%;"
-       aria-label="Lynx Schrittzähler in Aktion">
-  <source src="./assets/LynxSchrittzählerV.mp4" type="video/mp4">
-</video>
